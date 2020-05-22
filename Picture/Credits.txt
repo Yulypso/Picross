@@ -1,0 +1,62 @@
+                                                                                                                          
+                                                                                                                           
+                                 .g8"""bgd `7MM"""Mq.  `7MM"""YMM  `7MM"""Yb. `7MMF'MMP""MM""YMM  .M"""bgd                 
+                               .dP'     `M   MM   `MM.   MM    `7    MM    `Yb. MM  P'   MM   `7 ,MI    "Y                 
+                               dM'       `   MM   ,M9    MM   d      MM     `Mb MM       MM      `MMb.                     
+                               MM            MMmmdM9     MMmmMM      MM      MM MM       MM        `YMMNq.                 
+                               MM.           MM  YM.     MM   Y  ,   MM     ,MP MM       MM      .     `MM                 
+                               `Mb.     ,'   MM   `Mb.   MM     ,M   MM    ,dP' MM       MM      Mb     dM                 
+                                 `"bmmmd'  .JMML. .JMM..JMMmmmmMMM .JMMmmmdP' .JMML.   .JMML.    P"Ybmmd"                  
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                            To all players.                                                
+                                                                                                                           
+                                              Thank you very much for playing "Picross Game".                              
+                                                                                                                           
+                                                   We have an important message for you!                                   
+          This game has a secret mode...  Fill the empty with a mirror to get the code ;) -> [ 6002-2091 |  ____-____ ]    
+                                                                                                                           
+                                                                                                                           
+                                                 ---First year project [ESIEA 2017-2018]---                                
+                                                                                                                           
+                 Created by:                                                                          Followed by:         
+                                                                                                                           
+                 Thierry KHAMPHOUSONE                                                                 Mrs RAQUEL MARTINS   
+                 Nimrod  NDOUDI                                                                       Mr GONZALEZ          
+                                                                                                                           
+                                                                                                                           
+                 Music & Sound:                                                                                            
+                                                                                                                           
+                 Yiruma - River Flow in you (Menu theme) by Thierry KHAMPHOUSONE                                           
+                 Tokyo Ghoul - White Silence (Opening/Ending theme) by Thierry KHAMPHOUSONE                                
+                 Hannes Hofkind - Game Over (Credits theme)                                                                
+                 Music For Your Media - A Hard Desicion                                                                    
+                 Funguypiano - Stay With Me                                                                                
+                 Funguypiano - I believe                                                                                   
+                 Funguypiano - Beautiful                                                                                   
+                 Soundclick effect (Menu/Fill/Cross) by Thierry KHAMPHOUSONE                                               
+                                                                                                                           
+                                                                                                                           
+                 Technologies used:                                                                                        
+                                                                                                                           
+                 C language                                                                                                
+                 Ncurses library                                                                                           
+                 P-255 Piano                                                                                               
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+
+                                                                                                                           
+                                                                                                                           
